@@ -69,7 +69,7 @@
 &kp A              &kp S      &kp D         &kp F      &kp G                                &kp H     &kp J     &kp K           &kp L           &kp ENTER
 &mt2 LEFT_SHIFT Z  &kp X      &kp C         &kp V      &kp B                                &kp N     &kp M     &kp COMMA       &kp PERIOD      &kp RIGHT_SHIFT
 &kp LCTRL          &kp LWIN   &kp LEFT_ALT  &mo 1      &mkp MB1   &kp SPACE  &kp BACKSPACE  &mkp MB2  &mo 2     &kp LANGUAGE_2  &kp LANGUAGE_1  &kp MINUS
-                   &none      &kp RIGHT     &kp DOWN   &kp LEFT   &kp UP     &kp UP         &kp LEFT  &kp DOWN  &kp RIGHT       &none
+                   &mkp LCLK  &kp RIGHT     &kp DOWN   &kp LEFT   &kp UP     &kp UP         &kp LEFT  &kp DOWN  &kp RIGHT       &mkp MB2
 &mkp LCLK          &mkp RCLK  &mkp MCLK                                                                         &mkp LCLK       &mkp RCLK       &mkp MCLK
 &mkp MB4           &mkp MB5   &kp LG(TAB)   &kp LG(D)  &kp LCTRL                            &mkp MB4  &mkp MB5  &kp LG(TAB)     &kp LG(D)       &kp LCTRL
             >;
